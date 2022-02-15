@@ -15,7 +15,7 @@ def sin_recursive(x, N=100):
     """
     # special case 0
     if x == 0:
-        return 0.0, 1
+        return 0.0
 
     sumN = an = x  # n=1
 
